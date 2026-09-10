@@ -23,3 +23,10 @@ Applicazione CLI modulare per la gestione di un registro scolastico:
 * **Per eseguire uno script singolo:**
   ```bash
   python nome_file.py
+  ```
+* **Per avviare il registro studenti:**
+  ```bash
+  cd registro_studenti
+  python main.py
+  ```
+
